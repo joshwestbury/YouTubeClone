@@ -14,7 +14,6 @@ const VideoListItem = ({video}) => {
                 </div>
 
             </div>
-            
         </li>
     );
 };

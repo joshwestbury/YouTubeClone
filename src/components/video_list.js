@@ -10,7 +10,7 @@
     })
 
     return (
-        <ul className="col-md-4 list-group">
+        <ul className="col-md-12 list-group">
             {videoItems}
         </ul>
     );
